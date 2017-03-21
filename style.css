@@ -1,0 +1,186 @@
+h1{
+    color: white;
+    padding:3%;
+    font-family:indie flower;
+}
+
+p{
+    margin: 0 15%;
+    background-color:#39d371;
+    padding: 40px;
+    border-radius:20%;
+    text-align: center;
+    
+}
+
+h2{
+    color:white;
+}
+
+h3{
+    color:white;
+}
+
+ol{
+    color:white;
+}
+
+img{
+    border-radius:30%;
+}
+
+body{
+    background-color:black;
+}
+
+iframe{
+    display: block;
+    margin: 0 auto;
+}
+
+#lebron-div{
+    transition:all 0.2s ease-in-out;
+    background-color:#700308;
+}
+
+#lebron-div:hover{
+    background-color:#f4ce42;
+}
+
+#lebron-div p{
+    background-color:#700308;
+    color:white;
+}
+
+#wade-div{
+    transition:all 0.2s ease-in-out;
+    background-color:#ffaa00;
+}
+
+#wade-div:hover{
+    background-color:#ce373f;
+}
+
+#wade-div p{
+    background-color: #ffaa00;
+}
+
+#jordan-div{
+    transition:all 0.2s ease-in-out;
+    background-color:black;
+}
+
+#jordan-div:hover{
+    background-color:#cc1212;
+}
+
+#jordan-div p{
+    Background-color:black;
+    color:white;
+}
+
+#kobe-div{
+    transition:all 0.2s ease-in-out;
+    background-color:#8020a3;
+}
+
+#kobe-div:hover{
+    Background-color:#e8d43e;
+}
+
+#kobe-div p{
+    background-color: #8020a3;
+    color:white;
+}
+
+#isaiah-div:hover{
+    background-color: #1a8229;
+}
+
+#isaiah-div p{
+    background-color: black;
+    color:white;
+}
+
+#iverson-div{
+    transition:all 0.2s ease-in-out;
+    background-color:#2950d1;
+}
+
+#iverson-div:hover{
+    background-color: #d62020;
+}
+
+#iverson-div p{
+    background-color: #2950d1;
+}
+
+#shaq-div{
+    transition:all 0.2s ease-in-out;
+    background-color:#8020a3;
+}
+
+#shaq-div:hover{
+    background-color: #e8d43e;
+}
+#shaq-div p{
+    background-color: #8020a3;
+    color:white;
+}
+
+#kd-div:hover{
+    background-color: #e3ea19;
+}
+
+#kd-div p{
+    background-color: #1924ea;
+    color:white;
+}
+
+#kawhi-div:hover{
+    background-color: #999a9b;
+}
+
+#kawhi-div p{
+    background-color:black;
+    color:white;
+}
+
+#magic-div:hover{
+    Background-color:#e8d43e;
+}
+
+#magic-div p{
+    background-color: #8020a3;
+    color:white;
+}
+
+img{
+    display:block;
+    margin:0 auto;
+}
+
+h1{
+    text-align:center;
+}
+
+
+h2{
+    text-align:center;
+}
+
+h3{
+    text-align:center;
+}
+
+ol{
+    text-align:center;
+    width:20%;
+    display:block;
+    margin:0 auto;
+    padding-bottom:20px;
+}
+
+p{
+    text-align:center;
+}
