@@ -2,31 +2,54 @@ h1{
     color: white;
     padding:3%;
     font-family:indie flower;
+    text-align:center;
+}
+
+#title{
+    font-family:lobster;
+    font-size:50px;
+    text-decoration:none;
+    width:300px;
+    text-align:center;
+    text-decoration:none;
+}
+
+#title:hover{
+    color:#71dde2;
 }
 
 p{
     margin: 0 15%;
     background-color:#39d371;
     padding: 40px;
-    border-radius:20%;
+    border-radius:20px;
     text-align: center;
-    
 }
 
 h2{
     color:white;
+    text-align:center;
 }
 
 h3{
     color:white;
+    text-align:center;
 }
 
 ol{
     color:white;
+    text-align:center;
+    width:20%;
+    display:block;
+    margin:0 auto;
+    padding-bottom:20px;
 }
 
 img{
     border-radius:30%;
+    display:block;
+    margin:0 auto;
+    border:5px solid white;
 }
 
 body{
@@ -36,6 +59,26 @@ body{
 iframe{
     display: block;
     margin: 0 auto;
+}
+
+nav{
+    color:white;
+    font-family:oswald;
+    text-align:center;
+    padding-bottom:5%;
+    font-size:20px;
+}
+
+.players {
+    color:white;
+    text-decoration: none;
+    margin:4%;
+    padding:7px;
+}
+
+.players:hover {
+    font-family:ranga;
+    color: #71dde2;
 }
 
 #lebron-div{
@@ -93,6 +136,10 @@ iframe{
     color:white;
 }
 
+#isaiah-div{
+    transition:all 0.2s ease-in-out;
+}
+
 #isaiah-div:hover{
     background-color: #1a8229;
 }
@@ -113,11 +160,12 @@ iframe{
 
 #iverson-div p{
     background-color: #2950d1;
+    color:white;
 }
 
 #shaq-div{
     transition:all 0.2s ease-in-out;
-    background-color:#8020a3;
+    background-color: #8020a3;
 }
 
 #shaq-div:hover{
@@ -126,6 +174,11 @@ iframe{
 #shaq-div p{
     background-color: #8020a3;
     color:white;
+}
+
+#kd-div{
+    transition:all 0.2s ease-in-out;
+    background-color:#1924ea;
 }
 
 #kd-div:hover{
@@ -137,6 +190,10 @@ iframe{
     color:white;
 }
 
+#kawhi-div{
+    transition:all 0.2s ease-in-out;
+}
+
 #kawhi-div:hover{
     background-color: #999a9b;
 }
@@ -144,6 +201,11 @@ iframe{
 #kawhi-div p{
     background-color:black;
     color:white;
+}
+
+#magic-div{
+    transition:all 0.2s ease-in-out;
+    background-color:#8020a3;
 }
 
 #magic-div:hover{
@@ -155,32 +217,28 @@ iframe{
     color:white;
 }
 
-img{
-    display:block;
-    margin:0 auto;
-}
-
-h1{
+.up{
+    position:fixed;
+    bottom: 0;
+    right: 0;
+    margin:0 15px 15px 0;
+    border-radius: 5%;
+    width:60px;
+    height:60px;
+    background:#FFF;
+    border:3px solid #000;
+    cursor:pointer;
+    color:#000;
+    text-decoration:none;
     text-align:center;
+    padding-top:15px;
+    transition:all 0.3% ease-in-out;
+    background-color:#3ab8d1;
+    font-family:baloo bhaina;
+    font-size:20px;
 }
 
-
-h2{
-    text-align:center;
+.up:hover {
+    background-color:#8f3ad1;
 }
 
-h3{
-    text-align:center;
-}
-
-ol{
-    text-align:center;
-    width:20%;
-    display:block;
-    margin:0 auto;
-    padding-bottom:20px;
-}
-
-p{
-    text-align:center;
-}
