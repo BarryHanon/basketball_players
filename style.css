@@ -7,15 +7,14 @@ h1{
 
 #title{
     font-family:lobster;
-    font-size:50px;
-    text-decoration:none;
+    font-size:60px;
     width:300px;
-    text-align:center;
-    text-decoration:none;
+    margin:0 auto;
 }
 
 #title:hover{
     color:#71dde2;
+    font-size:65px;
 }
 
 p{
@@ -239,6 +238,9 @@ nav{
 }
 
 .up:hover {
-    background-color:#8f3ad1;
+    background-color:#3bb72d;
 }
+
+
+
 
